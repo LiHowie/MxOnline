@@ -1,0 +1,11 @@
+django==2.2
+mysqlclient
+pillow
+django-crispy-forms~=1.14.0
+xlwt~=1.3.0
+XlsxWriter~=3.0.6
+future~=0.18.3
+httplib2~=0.21.0
+requests~=2.28.2
+six~=1.16.0
+DjangoUeditor==1.8.143
